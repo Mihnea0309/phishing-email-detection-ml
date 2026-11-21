@@ -20,7 +20,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 from sklearn.metrics import precision_recall_curve
 
-dataset_dir = r"C:\Users\mihne\Desktop\facultate\proiect licenta\Dataset"
+dataset_dir = r"C:"
 
 dataset_folders = {
     'easy_ham': 0,
