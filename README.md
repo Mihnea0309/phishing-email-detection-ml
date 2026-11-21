@@ -11,7 +11,7 @@ An end-to-end phishing detection and analysis system combining **Machine Learnin
 ##  Model Performance & Explainability
 
 ### Confusion Matrix (Optimized Random Forest)
-![Confusion Matrix](matricea_de_confuzie_random_forest_API.png)
+![Confusion Matrix](results/matricea_de_confuzie_random_forest_API.png)
 
 ### Feature Importance & SHAP Waterfall Explanation
 ![Feature Importance](results/importanta_caracteristici_rf.png)
