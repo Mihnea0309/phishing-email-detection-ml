@@ -32,8 +32,8 @@ dataset_folders = {
     "spam_github": 1,
 }
 
-vt_api_key = "1c6cbea2f85c60665c1e84f7e4db022c355908e161d6f63c19f5807690779daf"
-abuse_api_key = "b9e2dc0e0d65df15d6ed39e224049e32446c824d83bce6b98b6ddbb4351e441ff507fd6da70cd1bb"
+vt_api_key = ""
+abuse_api_key = ""
 
 CACHE_FILE = "threat_intel_cache.json"
 
